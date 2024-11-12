@@ -1,0 +1,3 @@
+## OpenWrt Note 是一个个人的OpenWrt使用笔记，记录了本人使用OpenWrt的心得
+#### OpenWrt官网: openwrt.org
+#### Lean Lede: https://github.com/coolsnowwolf/lede

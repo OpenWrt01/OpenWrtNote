@@ -1,3 +1,4 @@
+![LOGO](https://aimg8.dlszyht.net.cn/public/src/upload/2269360/Backend/files/65fea0eb58df1.png)    
 # OpenFi 产品实用笔记-功能详细
 
 - 欢迎访问 OpenFi 使用说明文档仓库！

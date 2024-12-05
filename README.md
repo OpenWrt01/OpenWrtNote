@@ -1,4 +1,4 @@
-![LOGO]([https://aimg8.dlszyht.net.cn/public/src/upload/2269360/Backend/files/65fea0eb58df1.png](https://cn.bing.com/images/search?view=detailV2&ccid=VPZ0%2bl4t&id=C0763DBA5B95A134625361D6CCD0E0D74825D33D&thid=OIP.VPZ0-l4tauDZs0RbWwPfyAHaD3&mediaurl=https%3a%2f%2fthehackernews.com%2fimages%2f-ab7W7-rvGGY%2fXnpnzi9enVI%2fAAAAAAAA2lA%2fUr5ncgHhPy0iM35olJelejqM4iZmDT0ZQCLcBGAsYHQ%2fs728-e100%2fopenwrt-vulnerability-hacking.jpg&exph=380&expw=728&q=openwrt+%e3%80%82&simid=608016543703522833&FORM=IRPRST&ck=30BDD563CF3AC035302720D7E6C66B31&selectedIndex=2&itb=0))            
+![LOGO   ](https://tse3-mm.cn.bing.net/th/id/OIP-C.VPZ0-l4tauDZs0RbWwPfyAHaD3?rs=1&pid=ImgDetMain)                                                                                        
 # OpenFi 产品实用笔记-功能详细
 
 - 欢迎访问 OpenFi 使用说明文档仓库！

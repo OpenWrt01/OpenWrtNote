@@ -39,7 +39,7 @@
 
 5. **等待脚本执行完成**
 - 根据提示，按步骤操作并等待脚本执行完成。整个过程需要一定的时间，请耐心等待：
-    ```sh
+```sh
 root@OpenFi:~# wget -O /tmp/gow.sh "http://dl.nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
 --2024-12-18 19:49:03--  http://dl.nextfi.link/mt7621/gow.sh
 Resolving dl.nextfi.link... 198.18.3.23

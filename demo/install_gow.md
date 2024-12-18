@@ -40,7 +40,7 @@
 5. **等待脚本执行完成**
 - 根据提示，按步骤操作并等待脚本执行完成。整个过程需要一定的时间`(3-5分钟左右)`，请耐心等待：
 ```sh
-root@OpenFi:~# wget -O /tmp/gow.sh "http://dl.nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
+root@Openwrt:~# wget -O /tmp/gow.sh "http://dl.nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
 --2024-12-18 19:49:03--  http://dl.nextfi.link/mt7621/gow.sh
 Resolving dl.nextfi.link... 198.18.3.23
 Connecting to dl.nextfi.link|198.18.3.23|:80... connected.
@@ -122,7 +122,7 @@ Collected errors:
 
 6. **刷新后台管理界面**
 
-   - 脚本执行完成后，刷新后台管理界面就可以在 **OpenWrt 原生功能菜单** 中查看到对应功能的菜单啦。
+   - 脚本执行完成后，刷新后台管理界面就可以在 **服务** 中查看到对应功能的菜单啦。
    - 如果没找到，可以尝试重启路由器。
 
 ---

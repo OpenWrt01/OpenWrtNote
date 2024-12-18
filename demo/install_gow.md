@@ -36,6 +36,10 @@
      ```sh
      wget -O /tmp/gow.sh "http://dl.nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
      ```
+     `或`
+     ```sh
+     wget -O /tmp/gow.sh "http://nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
+     ```
 
 5. **等待脚本执行完成**
 - 根据提示，按步骤操作并等待脚本执行完成。整个过程需要一定的时间`(3-5分钟左右)`，请耐心等待：

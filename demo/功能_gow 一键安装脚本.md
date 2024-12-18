@@ -20,7 +20,7 @@
 2. **进入 TTYD 终端**
 
    - 在后台管理界面左侧菜单中，选择 **应用程序** -> **TTYD 终端**。
-    ![TTyd(/docs/img/ttyd.png)
+    ![TTyd](/docs/img/ttyd.png)
 
 3. **登录终端**
 
@@ -134,7 +134,8 @@ Collected errors:
 >>>> 已安装完成 ssr+  请进入管理界面，在服务菜单中查看。
  
 >>>> 删除临时文件： /tmp/202410_ssr+.tar.gz    /tmp/mt7621_ipks/ssr+
-    ```
+
+```
 
 6. **刷新后台管理界面**
 

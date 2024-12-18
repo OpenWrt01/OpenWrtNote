@@ -36,7 +36,7 @@
      ```sh
      wget -O /tmp/gow.sh "http://dl.nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
      ```
-     `或`
+     `或着：`
      ```sh
      wget -O /tmp/gow.sh "http://nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
      ```

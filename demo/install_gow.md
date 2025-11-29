@@ -34,20 +34,16 @@
 4. **执行安装脚本**
 - 在终端中粘贴以下命令，并按回车执行：
      ```sh
-     wget -O /tmp/gow.sh "http://dl.nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
-     ```
-     `或者：`
-     ```sh
-     wget -O /tmp/gow.sh "http://nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
+     wget -O /tmp/gow.sh "http://dl.192168.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
      ```
 
 5. **等待脚本执行完成**
 - 根据提示，按步骤操作并等待脚本执行完成。整个过程需要一定的时间`(3-5分钟左右)`，请耐心等待：
 ```sh
-root@Openwrt:~# wget -O /tmp/gow.sh "http://dl.nextfi.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
---2024-12-18 19:49:03--  http://dl.nextfi.link/mt7621/gow.sh
-Resolving dl.nextfi.link... 198.18.3.23
-Connecting to dl.nextfi.link|198.18.3.23|:80... connected.
+root@Openwrt:~# wget -O /tmp/gow.sh "http://dl.192168.link/mt7621/gow.sh" && chmod +x /tmp/gow.sh && sh /tmp/gow.sh
+--2024-12-18 19:49:03--  http://dl.192168.link/mt7621/gow.sh
+Resolving dl.192168.link... 198.18.3.23
+Connecting to dl.192168.link|198.18.3.23|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 2329 (2.3K) [text/plain]
 Saving to: '/tmp/gow.sh'
@@ -67,7 +63,7 @@ Saving to: '/tmp/gow.sh'
  
 正在安装SSR+>>>...
 >>>> 正在下载，请不要关闭窗口，等待下载完成后自动执行安装。
---2024-12-18 19:49:11--  http://dl.nextfi.link/mt7621/202410_ssr+.tar.gz
+--2024-12-18 19:49:11--  http://dl.192168.link/mt7621/202410_ssr+.tar.gz
 Resolving dl.nextfi.link... 198.18.3.23
 Connecting to dl.nextfi.link|198.18.3.23|:80... connected.
 HTTP request sent, awaiting response... 200 OK
